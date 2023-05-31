@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1676989125 source:c:\users\lo_ii\desktop\test\mapy swieczki 21.02\main.cpp
+	<iostream>
+	<map>
+	<string>
+
